@@ -1,0 +1,25 @@
+﻿
+> fintech@0.0.0 build
+> vite build
+
+[36mvite v6.4.1 [32mbuilding for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 2004 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                              [39m[1m[2m     0.78 kB[22m[1m[22m[2m Γöé gzip:   0.43 kB[22m
+[2mdist/[22m[32massets/247 Monitoring-DsA0Pn7p.png      [39m[1m[2m     4.59 kB[22m[1m[22m
+[2mdist/[22m[32massets/256-bit Encryption-CdyZcWeO.png  [39m[1m[2m     6.44 kB[22m[1m[22m
+[2mdist/[22m[32massets/home.logo-Dis4LDJn.png           [39m[1m[2m    10.59 kB[22m[1m[22m
+[2mdist/[22m[32massets/Small teams-DZnECaNG.png         [39m[1m[2m    14.23 kB[22m[1m[22m
+[2mdist/[22m[32massets/Individuals-WZ-KCLi5.png         [39m[1m[2m    17.50 kB[22m[1m[22m
+[2mdist/[22m[32massets/home.image 4-CW9bJc5Z.png        [39m[1m[2m    25.47 kB[22m[1m[22m
+[2mdist/[22m[32massets/Freelancers-B8oIf5bg.png         [39m[1m[2m    38.64 kB[22m[1m[22m
+[2mdist/[22m[32massets/home.image 3-Cf8v0Mez.png        [39m[1m[2m   124.06 kB[22m[1m[22m
+[2mdist/[22m[32massets/home.image 1-D3GAD3TX.png        [39m[1m[2m   399.92 kB[22m[1m[22m
+[2mdist/[22m[32massets/home.image 2-4DKiCpAh.png        [39m[1m[2m   482.58 kB[22m[1m[22m
+[2mdist/[22m[32massets/phone.poster-BS5bRpsm.png        [39m[1m[2m   709.80 kB[22m[1m[22m
+[2mdist/[22m[32massets/backgroung.ellipse-DTU6CV9N.png  [39m[1m[2m28,231.38 kB[22m[1m[22m
+[2mdist/[22m[35massets/index-Dn0mMzj0.css               [39m[1m[2m    16.74 kB[22m[1m[22m[2m Γöé gzip:   3.85 kB[22m
+[2mdist/[22m[36massets/index-C-NVR6fG.js                [39m[1m[2m   346.84 kB[22m[1m[22m[2m Γöé gzip: 114.65 kB[22m
+[32mΓ£ô built in 2.72s[39m
